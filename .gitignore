@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Galde
+*.ui~
+*.glade~
+
+#Visual Studio Code
+*.vscode
